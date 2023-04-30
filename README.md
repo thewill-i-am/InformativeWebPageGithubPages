@@ -2,4 +2,4 @@
 
 
 
-Link : https://thewill-i-am.github.io/Web-Page-Informative/home.html
+Link : https://thewill-i-am.github.io/InformativeWebPageGithubPages/home
